@@ -1,0 +1,18 @@
+.box_one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+h1{
+  color: rgb(133, 35, 35);
+}
+
+h2{
+  color: rgb(9, 78, 78);
+}
+
+p{
+  color: rgb(69, 15, 121);
+}

@@ -1,0 +1,13 @@
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .actions {
+    flex-direction: row;
+  }
+  .actions__button {
+    color: white;
+    background-color: darkgoldenrod;
+  }
